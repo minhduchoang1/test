@@ -197,3 +197,168 @@ font-size: 20px;
 line-height: 37px;
 text-align: left;
 }
+
+.container_3 .learn-more-btn-1{
+    background-color: #fff;
+    border: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50px;
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 40px;
+    cursor: pointer ;
+    transition: background-color 0.3s ease;
+}
+.learn-more-btn-1:hover{
+    background-color: #535353;
+    color: #ffffff;
+}
+
+
+
+.container_4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.container_4 h2{
+    
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+letter-spacing: -0.02em;
+text-transform: capitalize;
+color: #222;
+text-align: left;
+}
+
+.container_4 h3{
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+/* Color/sub */
+
+color: #777777;
+
+}
+
+.container_4 p{
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 37px;
+text-align: left;
+}
+
+.container_4 .learn-more-btn-1{
+    background-color: #fff;
+    border: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50px;
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 40px;
+    cursor: pointer ;
+    transition: background-color 0.3s ease;
+}
+.learn-more-btn-1:hover{
+    background-color: #535353;
+    color: #ffffff;
+}
+
+
+
+.container_5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.container_5 h2{
+    
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+letter-spacing: -0.02em;
+text-transform: capitalize;
+color: #222;
+text-align: left;
+}
+
+.container_5 h3{
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+
+/* Color/sub */
+
+color: #777777;
+
+}
+
+.container_5 p{
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 37px;
+text-align: left;
+}
+
+.container_5 .learn-more-btn-1{
+    background-color: #fff;
+    border: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50px;
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 40px;
+    cursor: pointer ;
+    transition: background-color 0.3s ease;
+}
+.learn-more-btn-1:hover{
+    background-color: #535353;
+    color: #ffffff;
+}
+.container_6 h2{
+    font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 66.27px;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: capitalize;
+}
+
+.container_7 img{
+
+float: right;
+display: flex;
+flex-direction: row-reverse;
+margin-top: 46px;
+width: 361px;
+text-align: center;
+justify-content: center;
+padding: 12px 60px;
+
+}
